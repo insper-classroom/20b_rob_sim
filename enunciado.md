@@ -114,9 +114,9 @@ Depois:
 |Resultado| Conceito| 
 |---|---|
 | Não executa | 0 |
-| Consegue filtrar o vermelho | 1.0 |
-| Identifica qual o cilindro correto | 2.0 |
-| Faz a abordagem baseada em câmera e laser para se aproximar corretamente e para na distância recomendada| 3.33 | 
+| Consegue realizar uma aproximação baseada em laser | 0.75 |
+| Além do item acima consegue fazer uma rotação exata de 90 graus à direita | 1.5 |
+| Faz sucessivas iterações até chegar a 0.5m e 40 graus depois para| 3.5 | 
 
 
 Casos intermediários ou omissos da rubrica serão decididos pelo professor.
