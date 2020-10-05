@@ -1,0 +1,4 @@
+Não trabalhe a questão 2 neste diretório
+
+Vá para sim202/scripts
+
