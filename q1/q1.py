@@ -23,6 +23,7 @@ if __name__ == "__main__":
 
     # Inicializa a aquisição da webcam
     cap = cv2.VideoCapture(video)
+    cap.set(cv2.CAP_PROP_FPS, 3)
 
 
     print("Se a janela com a imagem não aparecer em primeiro plano dê Alt-Tab")
@@ -45,7 +46,7 @@ if __name__ == "__main__":
         # NOTE que em testes a OpenCV 4.0 requereu frames em BGR para o cv2.imshow
         cv2.imshow('imagem', frame)
 
-        if cv2.waitKey(1) & 0xFF == ord('q'):
+        if cv2.waitKey(50) & 0xFF == ord('q'):
             break
 
     # When everything done, release the capture
