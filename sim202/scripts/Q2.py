@@ -1,6 +1,9 @@
 #! /usr/bin/env python
 # -*- coding:utf-8 -*-
 
+# GABARITO
+# Pode ser visto rodando em https://youtu.be/Ml60CYVvVCk
+
 """
 O código para este exercício está em: `sub202/scripts/Q2.py`
 
