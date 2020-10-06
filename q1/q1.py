@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+# GABARITO
+# Veja rodando aqui https://youtu.be/mwyIJKPt5E8
+
 # Este NÃO é um programa ROS
 
 from __future__ import print_function, division 
